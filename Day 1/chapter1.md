@@ -2,17 +2,14 @@
 
 It is a medium to communicate between two entities.
 
+![](image/1.png)
 ---
-
-![] (image/1.png)
-
 # PROGRAMMING LANGUAGE
 
 A language or medium which is used to communicate or instruct a computer to perform a specific task is known as a programming language.
 
+![](image/2.png)
 ---
-![] (image/2.png)
-
 # TYPES OF PROGRAMMING LANGUAGE
 
 There are 3 types of programming language:
@@ -90,10 +87,9 @@ To create a language that is:
 6. Became public in **1995**  
 7. Acquired by **Oracle** around **2010**
 
+![](image/4.png)
+
 ---
-
-![] (image/4.png)
-
 # FEATURES OF JAVA
 
 ## Easy Way to Remember (Exam Trick)
