@@ -1,4 +1,4 @@
-# Language
+# LANGUAGE
 
 It is a medium to communicate between two entities.
 
@@ -7,7 +7,7 @@ It is a medium to communicate between two entities.
 </p>'
 
 ---
-# Programming LANGUAGE
+# PROGRAMMING LANGUAGE
 
 A language or medium which is used to communicate or instruct a computer to perform a specific task is known as a programming language.
 
@@ -16,7 +16,7 @@ A language or medium which is used to communicate or instruct a computer to perf
 </p>
 ---
 
-# Types Of programming language
+# TYPES OF PROGRAMMING LANGUAGE
 
 There are 3 types of programming language:
 
