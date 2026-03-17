@@ -1,16 +1,20 @@
-# LANGUAGE
+# Language
 
 It is a medium to communicate between two entities.
 
-![](image/1.png)
+<p align="center">
+  <img src="image/1.png" width="500">
+</p>
 ---
-# PROGRAMMING LANGUAGE
+# Programming LANGUAGE
 
 A language or medium which is used to communicate or instruct a computer to perform a specific task is known as a programming language.
 
-![](image/2.png)
+<p align="center">
+  <img src="image/2.png" width="500">
+</p>
 ---
-# TYPES OF PROGRAMMING LANGUAGE
+# Types Of programming language
 
 There are 3 types of programming language:
 
@@ -60,8 +64,12 @@ Converted into machine language using:
 
 **Examples:** Java, C, C++, Python
 
+<p align="center">
+  <img src="image/3.png" width="500">
+</p>
+
 ---
-![] (image/3.png)
+
 
 # HISTORY OF JAVA
 
@@ -87,7 +95,9 @@ To create a language that is:
 6. Became public in **1995**  
 7. Acquired by **Oracle** around **2010**
 
-![](image/4.png)
+<p align="center">
+  <img src="image/4.png" width="500">
+</p>
 
 ---
 # FEATURES OF JAVA
