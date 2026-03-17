@@ -4,7 +4,8 @@ It is a medium to communicate between two entities.
 
 <p align="center">
   <img src="image/1.png" width="500">
-</p>
+</p>'
+
 ---
 # Programming LANGUAGE
 
@@ -14,6 +15,7 @@ A language or medium which is used to communicate or instruct a computer to perf
   <img src="image/2.png" width="500">
 </p>
 ---
+
 # Types Of programming language
 
 There are 3 types of programming language:
