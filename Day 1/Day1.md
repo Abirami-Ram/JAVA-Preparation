@@ -1,6 +1,7 @@
 # JAVA
 
 ## Language:
+
 Language is a medium to communicate between two entities.
 
 <p align="center">
@@ -10,46 +11,50 @@ Language is a medium to communicate between two entities.
 They express their feelings through language.
 
 ## Programming Language:
-Programming Language is a medium to communicate between humans and the system to perform some specific tasks.
+
+Programming language is a medium to communicate between humans and the system to perform some specific tasks.
 
 <p align="center">
   <img src="image2.png" width="500">
 </p>
 
-
 ## Types of Programming Language:
+
 There are 3 types of programming languages.
 
-- Machine level / Low level language  
-- Assembly level / Mid-level language  
-- High level language  
+- Machine Level / Low Level Language  
+- Assembly Level / Mid-Level Language  
+- High Level Language  
 
 ---
 
-## Machine level language:
-A Language which is easily understandable, readable and executable my machine is known as Machine level language  
+## Machine Level Language:
 
-Machine can understand only 0’s and 1’s – are known as Binary language  
+A language which is easily understandable, readable, and executable by machine is known as machine level language.
+
+Machine can understand only 0’s and 1’s – are known as binary language.
 
 It is very difficult for humans to understand.
 
 ---
 
-## Assembly level language:
-Assembly level language consists of predefined words those predefined words are known as mnemonic or instruction set  
+## Assembly Level Language:
 
-There are 8086 instructions set present  
+Assembly level language consists of predefined words. Those predefined words are known as mnemonic or instruction set.
 
-It is difficult for machines to understand, so that we need to convert assembly level language into machine understandable language with the help of software known as Assembler  
+There are 8086 instruction sets present.
+
+It is difficult for machines to understand, so we need to convert assembly level language into machine understandable language with the help of software known as assembler.
 
 ---
 
-## High level language:
-A Language which is easily understandable, readable and instructible by humans is knowns as high level language.  
+## High Level Language:
 
-It is difficult for machines to understand.  
+A language which is easily understandable, readable, and instructible by humans is known as high level language.
 
-To convert high level language into machine level language with the help of software known as compiler and interpreter  
+It is difficult for machines to understand.
+
+To convert high level language into machine level language, we use software known as compiler and interpreter.
 
 - **Compiler** : Converts entire code into machine understandable language  
 - **Interpreter** : Converts line by line code into machine understandable language  
@@ -66,30 +71,34 @@ To convert high level language into machine level language with the help of soft
 
 ---
 
-### Object oriented:
-This thing can do these actions  
+### Object Oriented:
 
-A Tea Maker machine ☕  
+This thing can do these actions.
 
-It has buttons  
+A tea maker machine ☕
 
-It makes tea when you press it  
+It has buttons.
 
-Everything is about things (objects)  
+It makes tea when you press it.
 
-OOP = WHO does it (things)  
+Everything is about things (objects).
+
+OOP = WHO does it (things)
 
 ---
 
-### Procedure oriented:
-You focus on doing steps one by one  
+### Procedure Oriented:
 
-Like:  
+You focus on doing steps one by one.
 
-“First do this → then do this → then do this”  
+Like:
 
-Making tea ☕  
+“First do this → then do this → then do this”
+
+Making tea ☕
 
 - Boil water  
 - Add tea  
 - Add sugar  
+
+POP = HOW to do (steps)
