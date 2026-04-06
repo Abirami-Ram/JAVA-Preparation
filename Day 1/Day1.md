@@ -4,12 +4,15 @@
 
 ## Language
 
-Language is a medium to communicate between two entities.  
-They express their feelings through language.
+Language is a medium to communicate between two entities. 
 
 <p align="center">
   <img src="image1.png" width="500">
-</p>
+</p> 
+
+They are expressing their feelings through language.
+
+
 
 ---
 
