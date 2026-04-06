@@ -8,7 +8,7 @@ Language is a medium to communicate between two entities.
 They express their feelings through language.
 
 <p align="center">
-  <img src="image/1.png" width="500">
+  <img src="image1.png" width="500">
 </p>
 
 ---
@@ -18,7 +18,7 @@ They express their feelings through language.
 Programming Language is a medium to communicate between humans and the system to perform specific tasks.
 
 <p align="center">
-  <img src="image/2.png" width="500">
+  <img src="image2.png" width="500">
 </p>
 
 ---
@@ -107,3 +107,5 @@ Example: Making tea ☕
 👉 **POP = HOW to do (steps)**
 
 ---
+
+[def]: mage2.pn
