@@ -8,8 +8,8 @@
 
 
 
-## Java is a **high-level programming language**  
-## Java is an **object-oriented programming language**  
+## 🌐 Java is a high-level programming language  
+## 🧩 Java is an object-oriented programming language    
 
 #🧩 Object
 
