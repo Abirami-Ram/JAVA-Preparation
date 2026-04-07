@@ -57,7 +57,7 @@ An object is anything that exists in the real world.
   - Hardware  
   - Software  
 
----
+
 
 ### 🔄 How does Java achieve this?
 
@@ -71,20 +71,20 @@ Java uses something called **JVM (Java Virtual Machine)**
 
 👉 JVM is available on all platforms  
 
----
+
 
 ### 🏆 Famous Slogan
 
 👉 **"Write Once, Run Anywhere (WORA)"**
 
----
+
 
 ### ⚠️ Important Note
 
 - Java is **platform independent at runtime**  
 - But JVM is **platform dependent** (each OS has its own JVM)  
 
----
+
 
 ### ✅ Summary
 
