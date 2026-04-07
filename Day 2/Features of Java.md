@@ -36,7 +36,7 @@ An object is anything that exists in the real world.
 - Java is a **class-based language**  
 - We write the entire Java program inside a **class**  
 
-
+---
 
 ## 🌐 Platform Independent
 
@@ -49,7 +49,7 @@ An object is anything that exists in the real world.
 
 ✔ Without changing the code  
 
----
+
 
 ### ⚙️ Platform
 
