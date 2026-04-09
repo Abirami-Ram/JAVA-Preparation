@@ -30,7 +30,7 @@ Once the program stops → data is gone ❌
 
 4️⃣ Every variable has a lifespan
 
-            his talks about the variable itself
+            This talks about the variable itself
 
 Simple meaning:
 
@@ -52,7 +52,7 @@ int age = 25; // variable created
 
     Datatype variablename ;
 
-    Int a ;
+    int a ;
 
     String b;
 
@@ -64,7 +64,7 @@ int age = 25; // variable created
 
     int a;
 
-                int b;    int a,b,c,d;
+    int b;    int a,b,c,d;
 
     int c;
 
