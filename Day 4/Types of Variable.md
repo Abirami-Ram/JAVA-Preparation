@@ -6,8 +6,8 @@
 
 - 📌 Local Variable  
 - 🌍 Global Variable  
-- ⚡ Static Variable  
-- 🔄 Non-Static Variable  
+    - ⚡ Static Variable  
+    - 🔄 Non-Static Variable  
 
 ---
 
@@ -55,7 +55,7 @@ public class Local_Variable {
 
 ```java
 public class Global_Variable {
-    static int a = 10;  // Static variable
+    static int a = 10;  // Static variable                  
     int b = 20;        // Non-static variable
 
     public static void main(String[] args) {
