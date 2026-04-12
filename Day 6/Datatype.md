@@ -1,23 +1,25 @@
 # 📘 Datatype
 
-------------------------------------------------------------------------
+\---
 
 ## 📌 Definition
 
 Datatype :
 
-    It tells us  what type of data we need to store.
+&#x20;   It tells us  what type of data we need to store.
 
-------------------------------------------------------------------------
+
+
+\---
 
 ## 🔀 Types of Datatype
 
 Datatype divided into 👇
 
--   Primitive datatype\
--   Non-Primitive datatype
+* Primitive datatype
+* Non-Primitive datatype
 
-------------------------------------------------------------------------
+\---
 
 ## 🔢 Primitive Datatype
 
@@ -33,17 +35,17 @@ To store that data in single container is known as primitive datatype
 
 ✔️ They can be stored in a single container
 
-------------------------------------------------------------------------
+\---
 
 ## 🔥 8 Primitive Datatypes
 
 All these 8 primitive datatypes are keywords.
 
 ``` java
-byte ,short ,int,long,float,double,char,boolean.
+byte,short,int,long,float,double,char,boolean.
 ```
 
-------------------------------------------------------------------------
+\---
 
 ## 🧩 Non Primitive Datatype
 
@@ -51,9 +53,9 @@ It helps to store multiple values 📦📦
 
 Eg :
 
--   String
--   Array\
--   all the class that we are creating
+* String
+* Array
+* all the class that we are creating
 
 Eg :
 
@@ -66,7 +68,9 @@ class Demo
 
 📌 We can create variable with the help of class name.
 
-➡️ Inside this variable we can store: - null\
-- address
+➡️ Inside this variable we can store: - null
 
-------------------------------------------------------------------------
+* address
+
+\---
+
